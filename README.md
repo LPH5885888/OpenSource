@@ -1,4 +1,4 @@
-# iOS_Open-Source     喜欢给颗星 谢谢!
+# iOS_Open-Source     喜欢给颗星 谢谢(有好的源码会随时在更新)!
 iOS开源地址列表
 
 youtube下载神器：https://github.com/rg3/youtube-dl
