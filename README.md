@@ -6,7 +6,7 @@ youtube下载神器：https://github.com/rg3/youtube-dl
 vim插件：https://github.com/Valloric/YouCompleteMe
 
 vim插件配置：https://github.com/spf13/spf13-vim
-
+=
 ----------------Mac完整项目--------iOS_lphQQ771721802--
 
 电台：https://github.com/myoula/sostart
@@ -46,7 +46,7 @@ keepass: https://github.com/mstarke/MacPass
 telegram：https://github.com/overtake/telegram
 
 What’s Mac :https://github.com/stonesam92/WhatsMac
-
+======
 ----------------iOS完整项目----------------
 
 1.豆瓣相册 https://github.com/TonnyTao/DoubanAlbum
