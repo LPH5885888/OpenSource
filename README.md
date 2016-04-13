@@ -582,3 +582,5 @@ mattt大神的发布程序：https://github.com/nomad/shenzhen
 仿微信图片浏览地址: https://github.com/MSS0306/MSSBrowse
 
 仿天天动听音乐客服端: https://github.com/ashen-zhao/linjiaMusic
+
+高仿开眼客服端地址: https://github.com/lyimin/EyepetizerApp  
