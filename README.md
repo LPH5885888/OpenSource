@@ -1,4 +1,4 @@
-# iOS_Open-Source     喜欢给颗星 谢谢(有好的源码会随时在更新)!
+# iOS_Open-Source     喜欢的话给颗星，谢谢 (有好的源码会随时在更新)
 iOS开源地址列表
 
 youtube下载神器：https://github.com/rg3/youtube-dl
@@ -586,3 +586,5 @@ mattt大神的发布程序：https://github.com/nomad/shenzhen
 高仿开眼客服端地址: https://github.com/lyimin/EyepetizerApp  
 
 高仿最美应用地址： https://github.com/lyimin/beautifulApp
+
+高仿微信客服端地址: https://github.com/gsdios/GSD_WeiXin
