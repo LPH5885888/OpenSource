@@ -577,7 +577,6 @@ https://github.com/kif-framework/KIF
 
 mattt大神的发布程序：https://github.com/nomad/shenzhen
 
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 ================================================================
 
 仿微信图片浏览地址: https://github.com/MSS0306/MSSBrowse
