@@ -8,7 +8,7 @@ vim插件：https://github.com/Valloric/YouCompleteMe
 vim插件配置：https://github.com/spf13/spf13-vim
 
 =
-----------------Mac完整项目--------iOS_lphQQ771721802--
+----------------Mac完整项目----------
 
 电台：https://github.com/myoula/sostart
 
@@ -203,6 +203,7 @@ Json解析:https://github.com/johnezang/JSONKit
 
 瀑布流7）：https://github.com/steipete/PSTCollectionView
 
+=
 
 做图书的一个框架：https://github.com/Simbul/baker
 
