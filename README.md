@@ -320,6 +320,7 @@ pagecurl的翻页效果：http://www.cocoachina.com/bbs/read.php?tid=11856&keywo
 
 二维码：http://www.cocoachina.com/applenews/devnews/2013/0104/5462.html
 
+自定义aletView和控制器转场动画 https://github.com/LPH5885888/PHCustomView
 
 自定义的annotation（1）:https://github.com/applidium/ADClusterMapView
 
@@ -596,6 +597,3 @@ mattt大神的发布程序：https://github.com/nomad/shenzhen
 #Swift 开源工具
 
 GitHub上最被开发者认可的JSON解析类: https://github.com/SwiftyJSON/SwiftyJSON
-
-自定义aletView和控制器转场动画 https://github.com/LPH5885888/PHCustomView
-
